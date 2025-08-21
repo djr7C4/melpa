@@ -1,0 +1,3 @@
+(rem
+ :repo "djr7c4/rem"
+ :fetcher github)
